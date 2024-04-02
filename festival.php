@@ -36,7 +36,7 @@ require '_phplib/header.php';
 	<script type="text/javascript" src="./inc/jquery.ui.mouse.min.js"></script>
 	<script type="text/javascript" src="./inc/jquery.ui.draggable.min.js"></script>	
 
-	<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBKSILeKaYWXiLUJu0yEpZz9SXUkfVUQoc&sensor=true" type="text/javascript" language="javascript"></script>
+	<script src="http://maps.googleapis.com/maps/api/js?key={KEY_HERE}&sensor=true" type="text/javascript" language="javascript"></script>
 	<script src="_lib/map.js" type="text/javascript" language="javascript"></script>
 
 
