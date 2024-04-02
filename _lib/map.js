@@ -13,7 +13,7 @@ jQuery(document).ready( function($) {
 
 	var templateUrl 	= 'http://localhost/animatedme.co.uk/';
 
-	var gApiKey 		= 'AIzaSyBKSILeKaYWXiLUJu0yEpZz9SXUkfVUQoc';
+	var gApiKey 		= '<KEY>';
 
 	var videoShown = true;
 	var winW = 1000, winH = 460;
