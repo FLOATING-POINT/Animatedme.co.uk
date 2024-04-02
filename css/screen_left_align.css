@@ -1,0 +1,38 @@
+/*------------------------------------------------------------*/
+html{
+}
+body{
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	font-size:12px;
+	padding:0;
+	margin:0;
+	background:url(../images/backgroundJpeg.jpg) repeat-x left top;
+	width: 100%;
+	height: 100%;
+}
+h1{
+	letter-spacing:-2px;
+}
+h2{
+}
+h3{
+}
+p{
+}
+ul{
+}
+ol{
+}
+ul li{
+}
+ol li{
+}
+/*------------------------------------------------------------*/
+#container{
+	width: 788px;
+	position: relative;
+	padding:0;
+	margin:0;
+	height:100%;
+}

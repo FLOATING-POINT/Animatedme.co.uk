@@ -1,0 +1,437 @@
+/* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
+-------------------------------------------------------------- */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	border: 0;
+	font-family: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+:focus {/* remember to define focus styles! */
+	outline: 0;
+}
+body {
+	background: #fff;
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+table {/* tables still need 'cellspacing="0"' in the markup */
+	border-collapse: separate;
+	border-spacing: 0;
+}
+caption, th, td {
+	font-weight: normal;
+	text-align: left;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+a img {
+	border: 0;
+}
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+/*--------------------------------------------------------------------------------*/
+body,html{
+
+	width:100%;
+	height:100%;
+	background: #f1f1f1 url("../images/bg_strip.gif") repeat-x top;
+	float:left;
+	font: 17px/21px 'DroidSansRegular', Helvetica, Arial, sans-serif;
+	letter-spacing:-0.03em;
+	color:#fff;
+}
+h1{
+	font: 37px/44px 'SeanRegular', Helvetica, Arial, sans-serif;
+	letter-spacing:-0.02em;
+	color:#6d62ff;
+	text-shadow:  0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff;
+	text-align:center;
+}
+h2{
+	font: 37px/44px 'SeanRegular', Helvetica, Arial, sans-serif;
+	letter-spacing:-0.02em;
+	color:#6d62ff;
+	text-shadow:  0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff;
+	text-align:center;
+}
+a{
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+p{
+	padding-bottom:10px;
+}
+.clear{
+	clear:both;
+}
+.blue{
+	color:#6d62ff;
+}
+.highlight{
+	color:#c5c670;
+}
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    min-height: 900px;
+    height: 900px;
+    position: relative;
+    z-index: 10;
+}
+header{
+	width:100%;
+	height:140px;
+	background: url("../images/header_bg.png") repeat-x bottom;
+}
+#content,
+nav{
+	width:960px;
+	margin-left:auto;
+	margin-right:auto;
+}
+header ul#c{
+	width:960px;
+	margin-left:auto;
+	margin-right:auto;
+}
+header ul li{
+	float: left;
+}
+header ul li.logo{
+	width:290px;
+	cursor: pointer;
+}
+header ul li.logo ul{
+	width:290px;
+}
+header ul li.logo ul li{
+	float:none;
+	width:290px;
+	text-align:center;
+	font-size:15px;
+	color:#fff;
+}
+header ul li.logo ul li.strap{
+	margin-top:-6px;
+	line-height:18px;
+}
+header ul li.logo ul li.img{
+	width:290px;
+	height:82px;
+	background: url("../images/animatedMeLogo.jpg") no-repeat top;
+}
+header ul li.right{
+	float:right;
+}
+header ul li.right ul{
+	width:300px;
+}
+header ul li.right ul li{
+	float:right;
+}
+header ul li.pslogo a{
+	display:block;
+	width:217px;
+	height:73px;
+	background: url("../images/pslogo.jpg") no-repeat top;
+}
+header li.social{
+	padding-top:15px;
+}
+header li.social a.addthis_button_facebook_like{
+	width:85px;
+}
+header li.social a.addthis_button_tweet{
+	width:80px;
+}
+header li.social a.addthis_button_google_plusone{
+	width:65px;
+}
+nav{
+	width:960px;
+	margin-left:auto;
+	margin-right:auto;	
+	z-index:10;
+}
+nav li.menuLeft{
+	float:left;
+}
+nav li.menuLeft ul li{
+	float:left;
+	width:222px;
+	height:49px;
+	line-height:40px;
+	margin-top:-11px;
+	background: url("../images/tab_back.png") no-repeat top;
+	text-align:center;
+	font: 19px/40px 'DroidSansBold', Helvetica, Arial, sans-serif;
+	color:#fff;
+	cursor: pointer;
+}
+nav li.menuLeft ul li a{
+	color:#fff;
+}
+/*--------------------------------------------------------------------------------*/
+h1.home{
+	padding-top:90px;
+}
+#content{
+}
+#inner{
+	float:left;
+	width:100%;
+	padding:10px;
+	padding-top:20px;
+}
+ul#inner .col{
+	width:460px;
+	padding-right:10px;
+	float:left;
+}
+.btnLrg{
+	width:330px;
+	height:111px;
+	background: url("../images/btnLrgeBackArrow.png") no-repeat top;
+	margin-left:auto;
+	margin-right:auto;
+}
+.btnLrg div{
+	padding:15px;
+	line-height:80px;
+	text-indent:30px;
+	font-size:20px;
+	letter-spacing:-0.03em;
+	color:#6d62ff;
+	display: block;
+	cursor: pointer;
+}
+.btnLrg div:hover{
+	text-decoration:underline;
+}
+.btnLrgHome{
+	margin-top:100px;
+}
+li.characterHome ul{
+}
+li.characterHome ul li{
+	float:left;
+	text-align:center;
+	width:460px;
+	color:#6d62ff;
+}
+li.characterHome ul li img{
+	margin-left:auto;
+	margin-right:auto;
+}
+.scr{
+	position: absolute;
+	width:960px;
+}
+li.addr{
+	color:#6d62ff;
+	font-size:14px;
+	margin-top:10px;
+	text-align:center;
+	float:left;
+}
+#gMap2,
+#gMap{
+	width:450px;
+	height:300px;
+	background-color:#000;
+	float:left;
+	border:1px solid #6d62ff;
+	margin-top:80px;
+}
+#gMap2{
+	margin-top:20px;
+}
+ul#gi{
+	font: 22px/32px 'SeanRegular', Helvetica, Arial, sans-serif;
+	letter-spacing:-0.01em;
+	color:#6d62ff;
+	text-shadow:  0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff;
+	margin-top:20px;
+}
+ul#gi li span{
+	color:#c5c670;
+	font: 28px/32px 'SeanRegular', Helvetica, Arial, sans-serif;
+}
+ul#gi li{
+	margin-bottom:30px;
+	margin-right:20px;
+}
+ul#gi li.title{
+	font: 17px/24px 'DroidSansRegular', Helvetica, Arial, sans-serif;
+	text-shadow:none;
+	margin-bottom:20px;
+}
+
+.festinfo{
+	font: 22px/38px 'SeanRegular', Helvetica, Arial, sans-serif;
+	letter-spacing:-0.01em;
+	color:#6d62ff;
+	text-shadow:  0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff;
+	margin-top:20px;
+	text-align:center;
+}
+/*--------------------------------------------------------------------------------*/
+#main{
+	left:400px;
+}
+#gallery {
+	float:left;
+	width:100%;
+	height:600px;
+	overflow:hidden;
+	padding-top:20px;
+}
+#gallery ul#main{
+	height:600px;
+    float:left;
+    overflow:hidden;
+	margin-right:-32767px;
+	position: relative;
+
+}
+#gallery ul li.item{
+	float:left;
+	width:300px;
+	height:450px;	
+	border:1px solid #6d62ff;
+	margin-right:10px;
+	-moz-box-shadow: 0 0 5px  #333;
+	-webkit-box-shadow: 0 0 5px  #333;
+	box-shadow: 0 0 5px #333;
+	margin:5px;
+}
+#gallery ul li.item img{
+	width:300px;
+	height:450px;
+}
+#gallery ul li.item li.title{
+	position:relative;
+	z-index:20;
+	top:-40px;
+	padding:5px;
+	padding-left:10px;
+	background-color: #000;
+}
+ul#controls{
+	width:960px;
+	height:50px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:10px;
+}
+#controls li{
+	float:left;
+	margin:4px;
+	width:470px;
+	font: 22px/32px 'SeanRegular', Helvetica, Arial, sans-serif;
+	letter-spacing:-0.01em;
+	color:#6d62ff;
+	text-shadow:  0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff;
+	padding-bottom:10px;
+	cursor: pointer;
+}
+#controls li.next{
+	text-align:right;
+}
+
+/*--------------------------------------------------------------------------------*/
+footer{
+	background-color: #6d62ff;	
+    height: 140px;
+    margin-top: -40px;
+    position: relative;
+    width: 100%;
+   	padding-top:10px;
+   	color:#202020;
+   	display: block;
+}
+footer nav ul{
+	/*width:960px;
+	/*display: block;*/
+}
+footer nav ul li.left{
+	padding-top:10px;
+	float:left;
+	width:520px;
+	font-size:14px;
+}
+footer nav ul li.left ul li{
+	text-indent:10px;
+}
+footer nav ul li.left ul li.com{
+	color:#fff;
+}
+footer nav ul li.left a{
+	color:#e3e515;
+	font: 14px/14px 'DroidSansBold', Helvetica, Arial, sans-serif;
+}
+footer nav ul li.left ul li.flLogo{
+	width:230px;
+	height:45px;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-indent:0px;
+}
+footer nav ul li.left ul li.flLogo a{
+	width:230px;
+	height:45px;
+	background: url("../images/FLOATINGPOINTLogo.png") no-repeat top;
+	display: block;
+}
+footer nav ul li.right{
+	width:440px;
+	float:left;
+}
+footer nav ul li.right ul li{
+	width:100%;
+}
+footer nav ul li.right ul.social{
+	padding-top:60px;	
+	float:left;
+	height:auto;
+}
+footer nav ul li.right ul.social li{
+	float:right;
+	width:100%;
+	text-align:right;
+}
+footer nav ul li.right ul.social li div.addthis_toolbox{
+	float:right;
+	width:250px;
+}
+footer nav ul li.right ul li.cr{
+	padding-top:10px;
+	font-size:12px;
+	letter-spacing:0.0em;
+}
+/*--------------------------------------------------------------------------------*/

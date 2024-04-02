@@ -1,0 +1,87 @@
+#wPaint{
+	float:left;
+	position:relative; 
+
+	width:400px; 
+	height:600px; 
+	background:#ffffff; 
+	border:solid #6d62ff 1px;
+	background:url("../images/drawing/background.png");
+}
+#instructionsControls{
+	width:400px; 
+	height:600px; 
+	float:left;
+	margin-top:20px;
+	margin-left:20px;
+	color:#6d62ff;
+}
+#instructionsControls li{
+	margin-bottom:30px;
+	width:400px;
+}
+#instructionsControls li.ins{
+	font: 24px/34px 'SeanRegular', Helvetica, Arial, sans-serif;
+	letter-spacing:-0.02em;
+	color:#6d62ff;
+	text-shadow:  0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff;
+	margin-bottom:30px;
+}
+#instructionsControls li.saveBtn{
+	font: 30px/44px 'SeanRegular', Helvetica, Arial, sans-serif;
+	cursor: pointer;
+	text-shadow:  0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff;
+}
+#instructionsControls li.n{
+	margin-bottom:10px;
+}
+#instructionsControls li.n div{
+	font: 20px/36px 'SeanRegular', Helvetica, Arial, sans-serif;
+	padding-bottom:10px;
+	text-shadow:  0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff,0px 0px 6px #fff;
+}
+#instructionsControls li.n input{
+	font: 17px/21px 'DroidSansRegular', Helvetica, Arial, sans-serif;
+	letter-spacing:-0.03em;
+	border:solid #fff 1px;
+	background-color:#ccc;
+	width:400px;
+	padding:10px;
+}
+#thanks{
+	width:400px;	
+	display:block;
+	z-index:100;
+	left:40%;
+	top:40%;
+	position:absolute;
+	background-color:#6d62ff;
+	padding:10px;
+	padding-top:20px;
+	border:2px #fff solid;
+	text-align:center;
+	font: 21px/27px 'DroidSansRegular', Helvetica, Arial, sans-serif;
+	-moz-box-shadow: 0 0 5px  #333;
+	-webkit-box-shadow: 0 0 5px  #333;
+	box-shadow: 0 0 5px #333;
+	display: none;		
+}
+#thanks li.btnL,
+#thanks li.btnR{
+	width:220px;
+	cursor:pointer;
+	float:left;
+	font: 24px/36px 'SeanRegular', Helvetica, Arial, sans-serif;
+	float:left;
+	padding:5px;
+	color:#e3e515;
+}
+#thanks li.btnR{
+	text-align:right;
+	width:150px;
+}
+#thanks li.btnL:hover,
+#thanks li.btnR:hover{
+	text-shadow:  0px 0px 6px #000,0px 0px 6px #fff,0px 0px 6px #000,0px 0px 6px #000,0px 0px 6px #000;
+
+}

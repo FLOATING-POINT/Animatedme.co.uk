@@ -1,0 +1,487 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lett",
+				"letter-spacing"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"stop",
+				"stopVideo"
+			],
+			[
+				"load",
+				"loadPlayerVideoById"
+			],
+			[
+				"zoom",
+				"zoomLevel"
+			],
+			[
+				"zoo",
+				"zoomLevel"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"background",
+				"background	background-color: hex"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"im",
+				"imagesMarkersArray"
+			],
+			[
+				"up",
+				"updatesMarkersArray"
+			],
+			[
+				"tw",
+				"tweetsMarkersArray"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"col",
+				"console"
+			],
+			[
+				"curI",
+				"curImgH"
+			],
+			[
+				"back",
+				"background	background-color: hex"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 4931,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/js/flickr.js",
+			"settings":
+			{
+				"buffer_size": 14644,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_lib/slide.js",
+			"settings":
+			{
+				"buffer_size": 745,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/screen.css",
+			"settings":
+			{
+				"buffer_size": 5650,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/animatedMe.co.uk/_lib/jquery.easing.1.3.js",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/fonts/fonts.css",
+		"/C/wamp/www/animatedMe.co.uk/css/fonts.css",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/header.php",
+		"/C/wamp/www/Weltonhurst.co.uk/css/screen.css",
+		"/C/wamp/www/crocodileEvents.co.uk/css/screen.css",
+		"/C/wamp/www/website.com template/css/screen.css",
+		"/C/wamp/www/animatedMe.co.uk/_phplib/Utils/function.entities.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/page-the-team.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/sidebar-newmembers.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/sidebar-profiles.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/page-fixtures.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/functions.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/js/flickr.js",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/style800px.css",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/style.css",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/style-original.css",
+		"/C/wamp/www/animatedMe.co.uk/index.php",
+		"/C/wamp/www/animatedMe.co.uk/animatedMe.sublime-project",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/class.mysqlConnection.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/home.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/page-map.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/page-videos.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/css/tubepressstyle.css",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/plugins/tubepress/index.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/plugins/tubepress/sys/ui/themes/default/style.css",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/plugins/tubepress/tubepress.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/plugins/tubepress/sys/classes/TubePress.class.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/styleDT.css",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/style320-480px.css",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/style650px.css",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/style450px.css",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/style-EBOrig.css",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/css/styleDT.css",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/twentyeleven/style.css",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/sidebar-competition-footballgiveaway.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/sidebar-competition-merchandise.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/sidebar-competition-pies.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/sidebar-competition-superfan.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/plugins/geolocation/geolocation.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/js/map.js",
+		"/C/wamp/www/englandband.pukkapies.co.uk/phpCron/flickr.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/phpCron/_php/utils/class.mysqlConnection.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/phpCron/twitter.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/page-competitions.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/js/infoBox.js",
+		"/C/wamp/www/englandband.pukkapies.co.uk/phpCron/youtube.php",
+		"/C/wamp/www/flpdigital.com/.htaccess",
+		"/C/Users/Brendan/Desktop/.htaccess",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/css/screenGallery.css",
+		"/C/wamp/www/englandband.pukkapies.co.uk/.htaccess",
+		"/C/wamp/www/englandband.pukkapies.co.uk/php.ini",
+		"/C/wamp/www/englandband.pukkapies.co.uk/phpCron/youtubeexamplefeed.xml",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-config.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/page-league-table.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/sidebar-predictions.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/page-news.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/sidebar-newsitemsShort.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/sidebar-newsitems.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/content-single.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/single.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/category-news.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/sidebar-nextgame.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/index.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/plugins/euro-2012-predictor/predict.class.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/plugins/euro-2012-predictor/euro-2012-predictor.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/sidebar.php",
+		"/C/wamp/www/derbySoapOpera.co.uk/phpvideo/_php/utils/class.mysqlConnection.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/page-gallery.php",
+		"/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/page.php",
+		"/C/Users/Brendan/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Brendan/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Brendan/AppData/Roaming/Sublime Text 2/Packages/User/openInBrowser.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"left",
+			"jsoncallback",
+			"200px",
+			"70px",
+			"4px",
+			"width:250px;",
+			"width:248px;",
+			"width:245px;",
+			"width:255px;",
+			"width:238px;",
+			"width:272px;",
+			";",
+			".s",
+			"75",
+			"band2Col",
+			"%;",
+			"re",
+			"var",
+			"predications",
+			"left",
+			"latestTweets",
+			"var",
+			"locTweetsArray",
+			"locUpdatesArray",
+			"locVideosArray",
+			"locImagesArray",
+			"locStadiumsArray",
+			"8",
+			"post_content",
+			"					$('#",
+			"getLargeImgSrc",
+			"curImgW",
+			"curImgW = ",
+			"#limgBack",
+			"searchFlickr",
+			"#left",
+			"footer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"width:245px;",
+			"width:246px;",
+			"width:250px;",
+			"width:245px;",
+			"width:255px;",
+			"width:238px;",
+			"predictions",
+			"tweetsMarkersArray",
+			"updatesMarkersArray",
+			"videosMarkersArray",
+			"imagesMarkersArray",
+			"stadiumsMarkersArray",
+			"#leftNav"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 4931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2739,
+								2745
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 945.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/wamp/www/englandband.pukkapies.co.uk/wp-content/themes/englandBand/js/flickr.js",
+					"settings":
+					{
+						"buffer_size": 14644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12887,
+								12932
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8643.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_lib/slide.js",
+					"settings":
+					{
+						"buffer_size": 745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/screen.css",
+					"settings":
+					{
+						"buffer_size": 5650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3676,
+								3673
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2745.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true
+}
